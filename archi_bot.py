@@ -3,14 +3,14 @@ from telebot import types
 import requests
 
 
-API_TOKEN = '7286680124:AAGIXtYGMNrlyQHYclFivAh5-ptdiQjGFnw'
+API_TOKEN = 'YOUR_TOKEN'
 
 GROUPS = {
-    'python': {'chat_id': -1002184580115, 'topic_id': 3},
-    'sql': {'chat_id': -1002184580115, 'topic_id': 7},
-    'java': {'chat_id': -1002184580115, 'topic_id': 4},
-    'helpful': {'chat_id': -1002184580115, 'topic_id': 8},
-    'c#': {'chat_id': -1002184580115, 'topic_id': 5},
+    'python': {'chat_id': YOUR_CHAT_ID, 'topic_id': TOPIC_ID},
+    'sql': {'chat_id': YOUR_CHAT_ID, 'topic_id':  TOPIC_ID},
+    'java': {'chat_id': YOUR_CHAT_ID, 'topic_id':  TOPIC_ID},
+    'helpful': {'chat_id': YOUR_CHAT_ID, 'topic_id':  TOPIC_ID},
+    'c#': {'chat_id': YOUR_CHAT_ID, 'topic_id':  TOPIC_ID},
 }
 
 
