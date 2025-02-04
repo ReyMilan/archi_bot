@@ -1,6 +1,6 @@
 <h1>Archivarius Bot </h1>
 <h2>Description</h2>
-![Archivarius](images/example.png)
+![Archivarius](photo_2024-07-25_15-29-36.jpg)
 Archivarius Bot is a Telegram bot designed to simplify the process of sorting and managing data in educational chats.<br> It helps organize messages, filter important information, and improve communication efficiency.
 
 ## <h3>Features</h3>
